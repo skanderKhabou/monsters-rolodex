@@ -32,7 +32,7 @@ class App extends Component {
     // const searchField = this.state.searchField;
     return (
       <div className="App">
-        <h1> Monster Rolodex</h1>
+        <h1> Monster Rolode</h1>
         <SearchBox
           placeholder="search monsters"
           handleChange={this.handleChange}
